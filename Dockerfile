@@ -1,4 +1,4 @@
-FROM kratan/bwvisu-base-centos7
+FROM kratan/bwvisu-base-centos
 LABEL maintainer="andreas.kratzer@kit.edu"
 
 #Driver version + Install Location
